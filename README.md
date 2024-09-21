@@ -1,5 +1,5 @@
 ### Work Experience
-### ** Senior Software Engineer @ APTIV COMPONENTS INDIA PVT. LTD. Bangalore (_Dev2019 - Present_)**
+### ** Senior Software Engineer @ APTIV COMPONENTS INDIA PVT. LTD. Bangalore (_Dec2019 - Present_)**
 ## Project Name:
 - Short Range Radar. (SRR2, SRR5, SRR5+) .
 ## Platforms and Tools:
