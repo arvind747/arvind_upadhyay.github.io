@@ -1,9 +1,12 @@
 ## Work Experience
-**Senior Software Engineer @ APTIV COMPONENTS INDIA PVT. LTD. Bangalore (_Dec2019 - Present_)**
-#### Project Name:
-- Short Range Radar. (SRR2, SRR5, SRR5+)     
-#### Platforms and Tools:
-- Eclipse IDE, Wind River Compiler, NXP RRU2 S32R294, NXP RRU S32R274, TI DRA416 MCU, Davinci, CANoe, Lauterbach, Trace 32, Green Hills multi debugger, JIRA, DOORS       
+**Senior Software Engineer @ APTIV COMPONENTS INDIA PVT. LTD. Bangalore (_Dec2019 - Present_)**    
+
+#### Project Name:    
+- Short Range Radar. (SRR2, SRR5, SRR5+)
+    
+#### Platforms and Tools:   
+- Eclipse IDE, Wind River Compiler, NXP RRU2 S32R294, NXP RRU S32R274, TI DRA416 MCU, Davinci, CANoe, Lauterbach, Trace 32, Green Hills multi debugger, JIRA, DOORS
+    
 #### Responsibilities:
 - Leading change in vehicle diagnostic service and fault management. 
 - Well-versed with the use of complex device drivers, diagnostic service and fault management as well as the AUTOSAR DCM and DEM interface.
