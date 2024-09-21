@@ -10,8 +10,10 @@
 - Analyze DOORS diagnostic requirements and perform rationality assessments of these requirements working with sub-system lead engineers in properly defining these requirements. 
 - Responsible for AUTOSAR and ISO-26262 based microcontroller device driver and functional safety development for various peripheral DMA, CRC, OCOTP, ECC and TMU.
 - Implemented RCTA (Rear Cross Traffic Alert) feature function state machine with considering other environment variables in SW to meet end system requirement expectation.
-- A member of DFMEA for diagnostic and fault manager SW component of the project and gained proficiency on FMEA pro tool.
-<br/>
+- A member of DFMEA for diagnostic and fault manager SW component of the project and gained proficiency on FMEA pro tool.   
+
+<br/>  
+
 
 **Senior Software Engineer @ CONTINENTAL AUTOMOTIVE COMPONENTS INDIA PVT. LTD. Bangalore (_Apr2017 - Dec2019_)**
 #### Project Name:
@@ -25,7 +27,10 @@
 - Development of an automated testing framework for use by external developers.
 - Provide technical support to the factory, Supply Management, and Product Support during key product development phases.
 - Participates in project leadership and/or program planning including providing technical input to product development plans and concept documents.
-<br/>
+
+<br/>  
+
+
 
 **Software Engineer @ INFIQUITY AUTO TECHNOLOGIES INDIA PVT. LTD. Bangalore (_Jan2015 - Apr20179_)**
 #### Project Name:
@@ -51,7 +56,7 @@
 - Data acquisition from engine parameter speed, torque and fuel gauge sensor
 - Implementation of I2C driver for display on 7 segment display line
 - Provide timely communications on significant issues or developments
-  
+
 ## Education
 - B.E., Electronics and Communication | GOVERNMENT ENGINEERING COLLEGE BHARUCH (_May2013_)    
 
@@ -68,5 +73,4 @@
 - Advanced Course in Embedded Systems.,         | VECTOR INDIA Bangalore(_Sep2014_)
 - Linux Kernel and Linux Device Driver Course., | LINUX KERNEL FOUNDATION Bangalore(_May2023_)
 - Advanced ARMV8-M Features.,                   | COURSERA(_Jul2024_)
-- Deep Dive into Yocto Embedded Linux.,         | UDEMY(_Aug2024_)
-  with Beagle Bone Black     
+- Deep Dive into Yocto Embedded Linux with Beagle Bone Black., | UDEMY(_Aug2024_)
