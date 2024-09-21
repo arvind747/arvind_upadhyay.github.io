@@ -1,5 +1,5 @@
 ### Work Experience
-** Senior Software Engineer @ APTIV COMPONENTS INDIA PVT. LTD. Bangalore (_Dev2019 - Present_)**
+### ** Senior Software Engineer @ APTIV COMPONENTS INDIA PVT. LTD. Bangalore (_Dev2019 - Present_)**
 ## Project Name:
 - Short Range Radar. (SRR2, SRR5, SRR5+) .
 ## Platforms and Tools:
@@ -12,7 +12,7 @@
 - Implemented RCTA (Rear Cross Traffic Alert) feature function state machine with considering other environment variables in SW to meet end system requirement expectation.
 - A member of DFMEA for diagnostic and fault manager SW component of the project and gained proficiency on FMEA pro tool.
 
-** Senior Software Engineer @ CONTINENTAL AUTOMOTIVE COMPONENTS INDIA PVT. LTD. Bangalore (_Apr2017 - Dec2019_)**
+### ** Senior Software Engineer @ CONTINENTAL AUTOMOTIVE COMPONENTS INDIA PVT. LTD. Bangalore (_Apr2017 - Dec2019_)**
 ## Project Name: 
 - ABS (Anti-lock Braking System).
 ## Platforms and Tools:
@@ -25,20 +25,7 @@
 - Provide technical support to the factory, Supply Management, and Product Support during key product development phases.
 - Participates in project leadership and/or program planning including providing technical input to product development plans and concept documents.
 
-** Senior Software Engineer @ APTIV COMPONENTS INDIA PVT. LTD. Bangalore (_Dev2019 - Present_)**
-## Project Name:
-- Short Range Radar. (SRR2, SRR5, SRR5+) .
-## Platforms and Tools:
-- Eclipse IDE, Wind River Compiler, NXP RRU2 S32R294, NXP RRU S32R274, TI DRA416 MCU, Davinci, CANoe, Lauterbach, Trace 32, Green Hills multi debugger, JIRA, DOORS. 
-## Responsibilities: 
-- Leading change in vehicle diagnostic service and fault management. 
-- Well-versed with the use of complex device drivers, diagnostic service and fault management as well as the AUTOSAR DCM and DEM interface.
-- Analyze DOORS diagnostic requirements and perform rationality assessments of these requirements working with sub-system lead engineers in properly defining these requirements. 
-- Responsible for AUTOSAR and ISO-26262 based microcontroller device driver and functional safety development for various peripheral DMA, CRC, OCOTP, ECC and TMU.
-- Implemented RCTA (Rear Cross Traffic Alert) feature function state machine with considering other environment variables in SW to meet end system requirement expectation.
-- A member of DFMEA for diagnostic and fault manager SW component of the project and gained proficiency on FMEA pro tool.
-
-** Software Engineer @ INFIQUITY AUTO TECHNOLOGIES INDIA PVT. LTD. Bangalore (_Jan2015 - Apr20179_)**
+### ** Software Engineer @ INFIQUITY AUTO TECHNOLOGIES INDIA PVT. LTD. Bangalore (_Jan2015 - Apr20179_)**
 ## Project Name:
 - AVAS – Acoustic Vehicle Alert System
 ## Platforms and Tools:
