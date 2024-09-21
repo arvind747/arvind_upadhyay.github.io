@@ -1,10 +1,10 @@
 ## Work Experience
-**Senior Software Engineer @ APTIV COMPONENTS INDIA PVT. LTD. Bangalore (_Dec2019 - Present_)**    
-#### Project Name:    
+**Senior Software Engineer @ APTIV COMPONENTS INDIA PVT. LTD. Bangalore (_Dec2019 - Present_)**
+#### Project Name:
 - Short Range Radar. (SRR2, SRR5, SRR5+)
 <br/>
 
-#### Platforms and Tools:   
+#### Platforms and Tools:
 - Eclipse IDE, Wind River Compiler, NXP RRU2 S32R294, NXP RRU S32R274, TI DRA416 MCU, Davinci, CANoe, Lauterbach, Trace 32, Green Hills multi debugger, JIRA, DOORS
 <br/>
 
@@ -15,14 +15,17 @@
 - Responsible for AUTOSAR and ISO-26262 based microcontroller device driver and functional safety development for various peripheral DMA, CRC, OCOTP, ECC and TMU.
 - Implemented RCTA (Rear Cross Traffic Alert) feature function state machine with considering other environment variables in SW to meet end system requirement expectation.
 - A member of DFMEA for diagnostic and fault manager SW component of the project and gained proficiency on FMEA pro tool.
-  
 <br/> 
 
 **Senior Software Engineer @ CONTINENTAL AUTOMOTIVE COMPONENTS INDIA PVT. LTD. Bangalore (_Apr2017 - Dec2019_)**
 #### Project Name:
-- ABS (Anti-lock Braking System) <br/>
+- ABS (Anti-lock Braking System)
+<br/>
+
 #### Platforms and Tools:
-- Eclipse IDE, Wind River Compiler, MKS, CANoe, Datalyser <br/>
+- Eclipse IDE, Wind River Compiler, MKS, CANoe, Datalyser
+<br/>
+
 #### Responsibilities:
 - Creativity / innovation – Possessing curiosity and a passion for driving continuous improvement through spotting opportunities and seeking the views of others.
 - Develop recommendations within established guidelines, Work and decisions are reviewed by technical leads before implementation.
@@ -30,10 +33,7 @@
 - Development of an automated testing framework for use by external developers.
 - Provide technical support to the factory, Supply Management, and Product Support during key product development phases.
 - Participates in project leadership and/or program planning including providing technical input to product development plans and concept documents.
-
-<br/>  
-
-
+<br/>
 
 **Software Engineer @ INFIQUITY AUTO TECHNOLOGIES INDIA PVT. LTD. Bangalore (_Jan2015 - Apr20179_)**
 #### Project Name:
