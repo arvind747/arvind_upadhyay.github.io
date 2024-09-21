@@ -2,8 +2,10 @@
 **Senior Software Engineer @ APTIV COMPONENTS INDIA PVT. LTD. Bangalore (_Dec2019 - Present_)**
 #### Project Name:
 - Short Range Radar. (SRR2, SRR5, SRR5+)
+  
 #### Platforms and Tools:
 - Eclipse IDE, Wind River Compiler, NXP RRU2 S32R294, NXP RRU S32R274, TI DRA416 MCU, Davinci, CANoe, Lauterbach, Trace 32, Green Hills multi debugger, JIRA, DOORS
+  
 #### Responsibilities:
 - Leading change in vehicle diagnostic service and fault management. 
 - Well-versed with the use of complex device drivers, diagnostic service and fault management as well as the AUTOSAR DCM and DEM interface.
@@ -16,8 +18,10 @@
 **Senior Software Engineer @ CONTINENTAL AUTOMOTIVE COMPONENTS INDIA PVT. LTD. Bangalore (_Apr2017 - Dec2019_)**
 #### Project Name: 
 - ABS (Anti-lock Braking System)
+  
 #### Platforms and Tools:
-- Eclipse IDE, Wind River Compiler, MKS, CANoe, Datalyser  
+- Eclipse IDE, Wind River Compiler, MKS, CANoe, Datalyser
+  
 #### Responsibilities: 
 - Creativity / innovation – Possessing curiosity and a passion for driving continuous improvement through spotting opportunities and seeking the views of others.
 - Develop recommendations within established guidelines, Work and decisions are reviewed by technical leads before implementation.
@@ -30,8 +34,10 @@
 **Software Engineer @ INFIQUITY AUTO TECHNOLOGIES INDIA PVT. LTD. Bangalore (_Jan2015 - Apr20179_)**
 #### Project Name:
 - AVAS – Acoustic Vehicle Alert System
+  
 #### Platforms and Tools:
 - IAR Embedded Workbench for ARM v7.70.1, NXP – S32K144 MCU
+  
 #### Responsibilities: 
 - Creates, implements and coordinates engineering product development projects that will support the creation, design, and improvement of electronic products
 - Contribute to Systems Engineering projects to develop new and/or improved processes and innovations to provide value for MANDO-HELLA Electronics Corp
@@ -42,8 +48,10 @@
 
 #### Project Name:
 - AVAS – Digital Instrument Panel
+  
 #### Platforms and Tools:
-- Code Composer Studio v6.1.0., Uniflash v3.2.0, JTAG Emulator XDS100v1, TI–TMS570LS0714, HALCoGen v04.05.02  
+- Code Composer Studio v6.1.0., Uniflash v3.2.0, JTAG Emulator XDS100v1, TI–TMS570LS0714, HALCoGen v04.05.02
+  
 #### Responsibilities: 
 - Creates, implements and coordinates engineering product development projects that will support the creation, design, and improvement of electronic products
 - Implementation of UART driver for communication between two Controllers
