@@ -1,5 +1,5 @@
 ## Work Experience
-**Technical Specialist @ Bosch Global Software Technologies PVT. LTD. Bangalore (_Dec2019 - Present_)**
+**Technical Specialist @ Bosch Global Software Technologies PVT. LTD. Bangalore (_Feb2023 - Present_)**
 #### Project Name:
 - MB PES Ecu (Power Electronic Switch)
 <br/>
@@ -15,7 +15,7 @@
 - Development/Configuration of AUTOSAR based CAN NM module and ECU sleep/wake-up.
 <br/>
 
-**Senior Software Engineer @ APTIV COMPONENTS INDIA PVT. LTD. Bangalore (_Dec2019 - Present_)**
+**Senior Software Engineer @ APTIV COMPONENTS INDIA PVT. LTD. Bangalore (_Dec2019 - _Jan2023)**
 #### Project Name:
 - Short Range Radar. (SRR2, SRR5, SRR5+)
 <br/>
