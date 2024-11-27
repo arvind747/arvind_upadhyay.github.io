@@ -1,4 +1,20 @@
 ## Work Experience
+**Senior Software Engineer @ Bosch Global Software Technologies PVT. LTD. Bangalore (_Dec2019 - Present_)**
+#### Project Name:
+- MB PES Ecu (Power Electronic Switch)
+<br/>
+
+#### Platforms and Tools:
+- Visual Studio, Green Hills, Infineon AURIX TC377TP, Davinci, CANoe, WinIdea, ALM, DOORS
+<br/>
+
+#### Responsibilities:
+- Responsible for customer requirement analysis and developement of COM module. 
+- Responsible for customer requirement analysis and developemnt/configuration of MB OS based dual bank OTA(Over The Air) programing/re-programing.
+- Developement/Configuration of AUTOSAR based COM E2E (Safe Communication). 
+- Development/Configuration of AUTOSAR based CAN NM module and ECU sleep/wake-up.
+<br/>
+
 **Senior Software Engineer @ APTIV COMPONENTS INDIA PVT. LTD. Bangalore (_Dec2019 - Present_)**
 #### Project Name:
 - Short Range Radar. (SRR2, SRR5, SRR5+)
@@ -53,7 +69,7 @@
 - Develop CAN driver, CAN IF, CAN TP, OSEK-COM, DCM, UDS services and also develop and integrate interfaces to connect SW Application layers. Work in an Agile iterative development environment
    
 #### Project Name:
-- AVAS – Digital Instrument Panel
+– Digital Instrument Panel
 <br/>
 
 #### Platforms and Tools:
