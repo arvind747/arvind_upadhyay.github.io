@@ -1,5 +1,5 @@
 ## Work Experience
-**Senior Software Engineer @ Bosch Global Software Technologies PVT. LTD. Bangalore (_Dec2019 - Present_)**
+**Technical Specialist @ Bosch Global Software Technologies PVT. LTD. Bangalore (_Dec2019 - Present_)**
 #### Project Name:
 - MB PES Ecu (Power Electronic Switch)
 <br/>
