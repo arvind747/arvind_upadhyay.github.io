@@ -27,7 +27,7 @@
 #### Responsibilities:
 - Leading change in vehicle diagnostic service and fault management. 
 - Well-versed with the use of complex device drivers, diagnostic service and fault management as well as the AUTOSAR DCM and DEM interface.
-- Analyze DOORS diagnostic requirements and perform rationality assessments of these requirements working with sub-system lead engineers in properly defining these requirements. 
+- Analyze diagnostic requirements and perform rationality assessments of these requirements working with sub-system lead engineers in properly defining these requirements. 
 - Responsible for AUTOSAR and ISO-26262 based microcontroller device driver and functional safety development for various peripheral DMA, CRC, OCOTP, ECC and TMU.
 - Implemented RCTA (Rear Cross Traffic Alert) feature function state machine with considering other environment variables in SW to meet end system requirement expectation.
 - A member of DFMEA for diagnostic and fault manager SW component of the project and gained proficiency on FMEA pro tool.
