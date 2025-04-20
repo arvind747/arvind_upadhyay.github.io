@@ -15,6 +15,19 @@
 - Development/Configuration of AUTOSAR based CAN NM module and ECU sleep/wake-up.
 <br/>
 
+#### Project Name:
+- Software-Defined Vehicle (SDV) POC
+<br/>
+
+#### Platforms and Tools:
+- Raspberry Pi 4B 
+<br/>
+
+#### Responsibilities:
+- Linux device driver development and testing for I2C and SPI driver and Linux build system 
+(YOCTO) 
+<br/>
+
 **Senior Software Engineer @ APTIV COMPONENTS INDIA PVT. LTD. Bangalore (_Dec2019 - _Jan2023)**
 #### Project Name:
 - Short Range Radar. (SRR2, SRR5, SRR5+)
